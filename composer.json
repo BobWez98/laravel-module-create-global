@@ -1,5 +1,5 @@
 {
-    "name": "indykoning/laravel-create-module",
+    "name": "bobwez98/laravel-create-module",
     "description": "Easily create local modules for modular development",
     "keywords": ["framework", "laravel", "laravel zero", "console", "cli", "laravel module", "module"],
     "type": "project",
