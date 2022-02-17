@@ -6,7 +6,7 @@ This application is the global variant of the [laravel-module-create](https://gi
 
 Simply install the package using composer
 
-`composer global require bobwez98/laravel-module-create --dev`
+`composer global require bobwez98/laravel-module-create`
 
 Since this module uses composer to install and autoload the created modules this module can be removed while still keeping created modules functional.
 
