@@ -1,12 +1,12 @@
 # Laravel Module Create
 
-This module adds a command to easily generate "modules" in Laravel and install them using composer
+This application is the global variant of the [laravel-module-create](https://github.com/indykoning/laravel-module-create) package
 
 ## Installation
 
 Simply install the package using composer
 
-`composer global require indykoning/laravel-module-create --dev`
+`composer global require bobwez98/laravel-module-create --dev`
 
 Since this module uses composer to install and autoload the created modules this module can be removed while still keeping created modules functional.
 
